@@ -10,5 +10,5 @@ collect some android awesome tools
 # IDE tool plugin
 [Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator)  
 
-[ButterKnife Zelezny]
+[ButterKnife Zelezny]  
 [GsonFormat]
