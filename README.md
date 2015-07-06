@@ -8,4 +8,7 @@ collect some android awesome tools
 [sketch-i18n](https://github.com/realaboo/sketch-i18n)
 
 # IDE tool plugin
-[Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator)
+[Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator)  
+
+[ButterKnife Zelezny]
+[GsonFormat]
