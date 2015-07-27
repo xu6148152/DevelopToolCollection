@@ -13,6 +13,7 @@ collect some android awesome tools
 
 [ButterKnife Zelezny]  
 [GsonFormat]
+[folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)
 
 ##Xcode
 [AMMethod2Implement](https://github.com/MellongLau/AMMethod2Implement)
