@@ -18,4 +18,4 @@ collect some android awesome tools
 ##Xcode
 [AMMethod2Implement](https://github.com/MellongLau/AMMethod2Implement)  
 [Auto-Importer-for-Xcode](https://github.com/citrusbyte/Auto-Importer-for-Xcode)  
-[SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap)
+[SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap)  
