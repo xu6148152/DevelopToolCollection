@@ -11,10 +11,10 @@ collect some android awesome tools
 # IDE tool plugin
 ##Android
 [Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator)  
-
 [ButterKnife Zelezny]  
 [GsonFormat]  
-[folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)
+[folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)  
+[LayoutCast](https://github.com/mmin18/LayoutCast)
 
 ##Xcode
 [AMMethod2Implement](https://github.com/MellongLau/AMMethod2Implement)  
