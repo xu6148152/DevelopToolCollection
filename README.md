@@ -7,7 +7,8 @@ collect some android awesome tools
 [idea-live-templates](https://github.com/keyboardsurfer/idea-live-templates)
 [sketch-i18n](https://github.com/realaboo/sketch-i18n)  
 [pixate](http://www.pixate.com/) app原型工具  
-[wireshark](https://www.wireshark.org/)
+[wireshark](https://www.wireshark.org/)  
+[gimp](http://www.gimp.org/downloads/) generate svg
 
 # IDE tool plugin
 ##Android
