@@ -23,4 +23,6 @@ collect some android awesome tools
 [Auto-Importer-for-Xcode](https://github.com/citrusbyte/Auto-Importer-for-Xcode)  
 [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap)  
 
+##Chart
 [chart work flow](https://www.lucidchart.com)  
+gliffy plugin of chrome
