@@ -18,11 +18,11 @@ collect some android awesome tools
 [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)  
 [LayoutCast](https://github.com/mmin18/LayoutCast)
 
-##Xcode
+##ios
 [AMMethod2Implement](https://github.com/MellongLau/AMMethod2Implement)  
 [Auto-Importer-for-Xcode](https://github.com/citrusbyte/Auto-Importer-for-Xcode)  
 [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap)  
-
+[75 tools](http://ios.jobbole.com/46799/)
 ##Chart
 [chart work flow](https://www.lucidchart.com)  
 gliffy plugin of chrome
