@@ -26,4 +26,5 @@ collect some android awesome tools
 ##Chart
 [chart work flow](https://www.lucidchart.com)  
 gliffy plugin of chrome
-[sketchboard](https://sketchboard.me)
+[sketchboard](https://sketchboard.me)  
+[calculator formula]Z(https://www.desmos.com/calculator)
