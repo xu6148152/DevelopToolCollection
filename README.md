@@ -30,4 +30,4 @@ gliffy plugin of chrome
 [calculator formula]Z(https://www.desmos.com/calculator)  
 
 ##sketch
-[sketch-9patch](https://github.com/maundytime/sketch-9patch)
+[sketch-9patch](https://github.com/maundytime/sketch-9patch)  
