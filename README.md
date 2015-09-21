@@ -16,7 +16,9 @@ collect some android awesome tools
 [ButterKnife Zelezny]  
 [GsonFormat]  
 [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)  
-[LayoutCast](https://github.com/mmin18/LayoutCast)
+[LayoutCast](https://github.com/mmin18/LayoutCast)  
+[graphic-generator](http://www.norio.be/android-feature-graphic-generator/)  
+
 
 ##ios
 [AMMethod2Implement](https://github.com/MellongLau/AMMethod2Implement)  
