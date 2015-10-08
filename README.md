@@ -11,6 +11,7 @@ collect some android awesome tools
 [gimp](http://www.gimp.org/downloads/) generate svg
 
 # IDE tool plugin
+
 ##Android
 [Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator)  
 [ButterKnife Zelezny]  
@@ -24,7 +25,9 @@ collect some android awesome tools
 [AMMethod2Implement](https://github.com/MellongLau/AMMethod2Implement)  
 [Auto-Importer-for-Xcode](https://github.com/citrusbyte/Auto-Importer-for-Xcode)  
 [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap)  
-[75 tools](http://ios.jobbole.com/46799/)
+[75 tools](http://ios.jobbole.com/46799/)  
+[xcode package manager](https://github.com/supermarin/Alcatraz)
+
 ##Chart
 [chart work flow](https://www.lucidchart.com)  
 gliffy plugin of chrome
