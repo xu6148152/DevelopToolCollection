@@ -39,4 +39,5 @@ gliffy plugin of chrome
 [sketch-9patch](https://github.com/maundytime/sketch-9patch)  
 [Sketch-Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints)  
 [sketch-measure](https://github.com/utom/sketch-measure)  
-[Content-generator](https://github.com/timuric/Content-generator-sketch-plugin)
+[Content-generator](https://github.com/timuric/Content-generator-sketch-plugin)  
+[react-color](https://github.com/casesandberg/react-color)
