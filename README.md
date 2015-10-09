@@ -8,7 +8,8 @@ collect some android awesome tools
 [sketch-i18n](https://github.com/realaboo/sketch-i18n)  
 [pixate](http://www.pixate.com/) app原型工具  
 [wireshark](https://www.wireshark.org/)  
-[gimp](http://www.gimp.org/downloads/) generate svg
+[gimp](http://www.gimp.org/downloads/) generate svg  
+[svg2android](https://github.com/inloop/svg2android)
 
 # IDE tool plugin
 
