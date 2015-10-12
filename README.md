@@ -29,7 +29,8 @@ collect some android awesome tools
 [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap)  
 [75 tools](http://ios.jobbole.com/46799/)  
 [xcode package manager](https://github.com/supermarin/Alcatraz)  
-[xcode document](https://github.com/onevcat/VVDocumenter-Xcode)
+[xcode document](https://github.com/onevcat/VVDocumenter-Xcode)  
+[cycript](http://www.cycript.org/)
 
 ##Chart
 [chart work flow](https://www.lucidchart.com)  
