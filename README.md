@@ -30,7 +30,8 @@ collect some android awesome tools
 [75 tools](http://ios.jobbole.com/46799/)  
 [xcode package manager](https://github.com/supermarin/Alcatraz)  
 [xcode document](https://github.com/onevcat/VVDocumenter-Xcode)  
-[cycript](http://www.cycript.org/)
+[cycript](http://www.cycript.org/)  
+[swift tool for generating code](https://github.com/AliSoftware/SwiftGen)
 
 ##Chart
 [chart work flow](https://www.lucidchart.com)  
