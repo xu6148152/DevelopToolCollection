@@ -50,3 +50,6 @@ gliffy plugin of chrome
 [Content-generator](https://github.com/timuric/Content-generator-sketch-plugin)  
 [react-color](https://github.com/casesandberg/react-color)  
 [Notebook](https://github.com/marcosvidal/Sketch-Notebook)
+
+##Crack
+[xclient](http://xclient.info/)
