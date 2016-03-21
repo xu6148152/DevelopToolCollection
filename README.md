@@ -23,7 +23,8 @@ collect some android awesome tools
 [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)  
 [LayoutCast](https://github.com/mmin18/LayoutCast)  
 [graphic-generator](http://www.norio.be/android-feature-graphic-generator/)  
-[Material Theme](https://github.com/ChrisRM/material-theme-jetbrains)
+[Material Theme](https://github.com/ChrisRM/material-theme-jetbrains)  
+[ADB WIFI](https://github.com/pedrovgs/AndroidWiFiADB)
 
 
 ##ios
