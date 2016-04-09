@@ -12,8 +12,8 @@ collect some android awesome tools
 [svg2android](https://github.com/inloop/svg2android)  
 [screengrab](https://github.com/fastlane/screengrab)  
 [RoboGif](https://github.com/izacus/RoboGif)  
-[objectaid](http://www.objectaid.com/download)
-[NimbleDroid](https://nimbledroid.com/)
+[objectaid](http://www.objectaid.com/download)  
+[NimbleDroid](https://nimbledroid.com/)  
 
 # IDE tool plugin
 
