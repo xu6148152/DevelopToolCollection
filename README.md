@@ -13,6 +13,7 @@ collect some android awesome tools
 [screengrab](https://github.com/fastlane/screengrab)  
 [RoboGif](https://github.com/izacus/RoboGif)  
 [objectaid](http://www.objectaid.com/download)
+[NimbleDroid](https://nimbledroid.com/)
 
 # IDE tool plugin
 
