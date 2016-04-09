@@ -14,7 +14,8 @@ collect some android awesome tools
 [RoboGif](https://github.com/izacus/RoboGif)  
 [objectaid](http://www.objectaid.com/download)  
 [NimbleDroid](https://nimbledroid.com/)  
-[AndResGuard](https://github.com/shwenzhang/AndResGuard)
+[AndResGuard](https://github.com/shwenzhang/AndResGuard)  
+[WebpConvert](https://github.com/mogujie/WebpConvert_Gradle_Plugin)  
 
 # IDE tool plugin
 
