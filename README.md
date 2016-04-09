@@ -14,6 +14,7 @@ collect some android awesome tools
 [RoboGif](https://github.com/izacus/RoboGif)  
 [objectaid](http://www.objectaid.com/download)  
 [NimbleDroid](https://nimbledroid.com/)  
+[AndResGuard](https://github.com/shwenzhang/AndResGuard)
 
 # IDE tool plugin
 
