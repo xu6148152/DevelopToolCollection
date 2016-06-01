@@ -57,3 +57,6 @@ gliffy plugin of chrome
 
 ##Crack
 [xclient](http://xclient.info/)
+
+##git
+[git_fame](https://github.com/oleander/git-fame-rb)
