@@ -6,7 +6,7 @@ collect some android awesome tools
 [android-ios-string-utils](https://github.com/ratana/android-ios-string-utils)  
 [idea-live-templates](https://github.com/keyboardsurfer/idea-live-templates)
 [sketch-i18n](https://github.com/realaboo/sketch-i18n)  
-[pixate](http://www.pixate.com/) app原型工具  
+[pixate](http://www.pixate.com/) app prototype  
 [wireshark](https://www.wireshark.org/)  
 [gimp](http://www.gimp.org/downloads/) generate svg  
 [svg2android](https://github.com/inloop/svg2android)  
@@ -62,4 +62,7 @@ gliffy plugin of chrome
 [git_fame](https://github.com/oleander/git-fame-rb)
 
 ##Algorithm
-[AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer)
+[AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer)  
+
+##React-Native
+[React-Native-Debugger](https://github.com/jhen0409/react-native-debugger)
