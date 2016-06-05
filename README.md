@@ -16,8 +16,6 @@ collect some android awesome tools
 [NimbleDroid](https://nimbledroid.com/)  
 [AndResGuard](https://github.com/shwenzhang/AndResGuard)  
 [WebpConvert](https://github.com/mogujie/WebpConvert_Gradle_Plugin)  
-[jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo)  
-[moshi](https://github.com/square/moshi) same to jsonschema2pojo
 
 # IDE tool plugin
 
@@ -67,4 +65,9 @@ gliffy plugin of chrome
 [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer)  
 
 ##React-Native
-[React-Native-Debugger](https://github.com/jhen0409/react-native-debugger)
+[React-Native-Debugger](https://github.com/jhen0409/react-native-debugger)  
+
+##Data Parse
+[LoganSquare](https://github.com/bluelinelabs/LoganSquare)  
+[jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo)  
+[moshi](https://github.com/square/moshi) same to jsonschema2pojo
