@@ -16,7 +16,8 @@ collect some android awesome tools
 [NimbleDroid](https://nimbledroid.com/)  
 [AndResGuard](https://github.com/shwenzhang/AndResGuard)  
 [WebpConvert](https://github.com/mogujie/WebpConvert_Gradle_Plugin)  
-[jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo)
+[jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo)  
+[moshi](https://github.com/square/moshi) same to jsonschema2pojo
 
 # IDE tool plugin
 
