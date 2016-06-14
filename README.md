@@ -28,7 +28,8 @@ collect some android awesome tools
 [LayoutCast](https://github.com/mmin18/LayoutCast)  
 [graphic-generator](http://www.norio.be/android-feature-graphic-generator/)  
 [Material Theme](https://github.com/ChrisRM/material-theme-jetbrains)  
-[ADB WIFI](https://github.com/pedrovgs/AndroidWiFiADB)
+[ADB WIFI](https://github.com/pedrovgs/AndroidWiFiADB)  
+[methodscount](http://www.methodscount.com/)
 
 
 ##ios
