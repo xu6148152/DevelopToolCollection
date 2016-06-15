@@ -16,7 +16,8 @@ collect some android awesome tools
 [NimbleDroid](https://nimbledroid.com/)  
 [AndResGuard](https://github.com/shwenzhang/AndResGuard)  
 [WebpConvert](https://github.com/mogujie/WebpConvert_Gradle_Plugin)  
-[dexcount](https://github.com/KeepSafe/dexcount-gradle-plugin)
+[dexcount](https://github.com/KeepSafe/dexcount-gradle-plugin)  
+[FileExplorer](https://github.com/MiCode/FileExplorer)
 
 # IDE tool plugin
 
