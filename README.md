@@ -22,7 +22,7 @@ collect some android awesome tools
 # IDE tool plugin
 
 ##Android
-[Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator)  
+[Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator)    
 [ButterKnife Zelezny]  
 [GsonFormat]  
 [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)  
