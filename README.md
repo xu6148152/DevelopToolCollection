@@ -17,7 +17,7 @@ collect some android awesome tools
 [AndResGuard](https://github.com/shwenzhang/AndResGuard)  
 [WebpConvert](https://github.com/mogujie/WebpConvert_Gradle_Plugin)  
 [dexcount](https://github.com/KeepSafe/dexcount-gradle-plugin)  
-[FileExplorer](https://github.com/MiCode/FileExplorer)
+[FileExplorer](https://github.com/MiCode/FileExplorer)  
 
 # IDE tool plugin
 
@@ -80,4 +80,7 @@ gliffy plugin of chrome
 [virustotal](https://www.virustotal.com/)  
 
 ##Python
-[yapf](https://github.com/google/yapf) python formatter
+[yapf](https://github.com/google/yapf) python formatter  
+
+##test
+[imagemagick]()http://www.imagemagick.org/script/index.php
