@@ -18,6 +18,7 @@ collect some android awesome tools
 [WebpConvert](https://github.com/mogujie/WebpConvert_Gradle_Plugin)  
 [dexcount](https://github.com/KeepSafe/dexcount-gradle-plugin)  
 [FileExplorer](https://github.com/MiCode/FileExplorer)  
+[Sonarqube](http://www.sonarqube.org/) bug detector like findbugs
 
 # IDE tool plugin
 
