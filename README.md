@@ -19,6 +19,7 @@ collect some android awesome tools
 [dexcount](https://github.com/KeepSafe/dexcount-gradle-plugin)  
 [FileExplorer](https://github.com/MiCode/FileExplorer)  
 [Sonarqube](http://www.sonarqube.org/) bug detector like findbugs
+[AnimatorDurationTile](https://github.com/nickbutcher/AnimatorDurationTile) Animator Debug Tool
 
 # IDE tool plugin
 
