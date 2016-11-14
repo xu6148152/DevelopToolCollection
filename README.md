@@ -18,7 +18,7 @@ collect some android awesome tools
 [WebpConvert](https://github.com/mogujie/WebpConvert_Gradle_Plugin)  
 [dexcount](https://github.com/KeepSafe/dexcount-gradle-plugin)  
 [FileExplorer](https://github.com/MiCode/FileExplorer)  
-[Sonarqube](http://www.sonarqube.org/) bug detector like findbugs
+[Sonarqube](http://www.sonarqube.org/) bug detector like findbugs  
 [AnimatorDurationTile](https://github.com/nickbutcher/AnimatorDurationTile) Animator Debug Tool
 
 # IDE tool plugin
@@ -86,4 +86,4 @@ gliffy plugin of chrome
 [yapf](https://github.com/google/yapf) python formatter  
 
 ##test
-[imagemagick]()http://www.imagemagick.org/script/index.php
+[imagemagick](http://www.imagemagick.org/script/index.php)
