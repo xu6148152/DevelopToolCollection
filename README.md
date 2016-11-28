@@ -52,7 +52,7 @@ collect some android awesome tools
 [chart work flow](https://www.lucidchart.com)  
 gliffy plugin of chrome
 [sketchboard](https://sketchboard.me)  
-[calculator formula]Z(https://www.desmos.com/calculator)  
+[calculator formula](https://www.desmos.com/calculator)  
 [sequencediagrams](https://www.websequencediagrams.com/)
 
 ##sketch
