@@ -21,6 +21,7 @@ collect some android awesome tools
 [Sonarqube](http://www.sonarqube.org/) bug detector like findbugs  
 [AnimatorDurationTile](https://github.com/nickbutcher/AnimatorDurationTile) Animator Debug Tool  
 [classyshark](https://github.com/google/android-classyshark)  
+[Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)  
 
 # IDE tool plugin
 
