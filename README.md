@@ -22,6 +22,7 @@ collect some android awesome tools
 [AnimatorDurationTile](https://github.com/nickbutcher/AnimatorDurationTile) Animator Debug Tool  
 [classyshark](https://github.com/google/android-classyshark)  
 [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)  
+[AndroidIconAnimator](https://github.com/romannurik/AndroidIconAnimator)
 
 # IDE tool plugin
 
