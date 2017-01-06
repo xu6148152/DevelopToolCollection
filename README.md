@@ -55,7 +55,8 @@ collect some android awesome tools
 gliffy plugin of chrome
 [sketchboard](https://sketchboard.me)  
 [calculator formula](https://www.desmos.com/calculator)  
-[sequencediagrams](https://www.websequencediagrams.com/)
+[sequencediagrams](https://www.websequencediagrams.com/)  
+[mermaid](https://github.com/knsv/mermaid)  
 
 ##sketch
 [sketch-9patch](https://github.com/maundytime/sketch-9patch)  
