@@ -95,3 +95,8 @@ gliffy plugin of chrome
 
 ## benchmark
 [JMH](http://openjdk.java.net/projects/code-tools/jmh/)
+
+## automation
+[fastlane](https://github.com/fastlane/fastlane) automate building and releasing your iOS and Android apps
+
+
