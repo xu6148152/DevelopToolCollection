@@ -90,6 +90,7 @@ gliffy plugin of chrome
 
 ## Python
 [yapf](https://github.com/google/yapf) python formatter  
+[EPD](https://store.enthought.com) data analysis
 
 ## test
 [imagemagick](http://www.imagemagick.org/script/index.php)
