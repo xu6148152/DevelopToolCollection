@@ -52,8 +52,7 @@ collect some android awesome tools
 
 ## Chart
 [chart work flow](https://www.lucidchart.com)  
-gliffy plugin of chrome
-[sketchboard](https://sketchboard.me)  
+[gliffy plugin of chrome](https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad?hl=zh-CN) [sketchboard](https://sketchboard.me)  
 [calculator formula](https://www.desmos.com/calculator)  
 [sequencediagrams](https://www.websequencediagrams.com/)  
 [mermaid](https://github.com/knsv/mermaid)  
