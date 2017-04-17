@@ -108,3 +108,7 @@ collect some android awesome tools
 
 ## Assemble
 [python tutor](http://www.pythontutor.com/)
+
+## Animation
+[ShapeShifter](https://shapeshifter.design/)  
+[Lottie](https://github.com/airbnb/lottie-android)
