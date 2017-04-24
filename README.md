@@ -111,4 +111,4 @@ collect some android awesome tools
 
 ## Animation
 [ShapeShifter](https://shapeshifter.design/)  
-[Lottie](https://github.com/airbnb/lottie-android)
+[Lottie](https://github.com/airbnb/lottie-android)  
