@@ -23,7 +23,7 @@ collect some android awesome tools
 [classyshark](https://github.com/google/android-classyshark)  
 [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)  
 [AndroidIconAnimator](https://github.com/romannurik/AndroidIconAnimator)  
-[androidtool](https://github.com/mortenjust/androidtool-mac)
+[androidtool](https://github.com/mortenjust/androidtool-mac)  
 
 # IDE tool plugin
 
