@@ -37,7 +37,7 @@ collect some android awesome tools
 [Material Theme](https://github.com/ChrisRM/material-theme-jetbrains)  
 [ADB WIFI](https://github.com/pedrovgs/AndroidWiFiADB)  
 [methodscount](http://www.methodscount.com/)
-[super-adb](https://github.com/tiann/super-adb)
+[super-adb](https://github.com/tiann/super-adb)  
 
 
 ## ios
