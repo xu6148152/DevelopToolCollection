@@ -48,7 +48,7 @@ collect some android awesome tools
 [xcode package manager](https://github.com/supermarin/Alcatraz)  
 [xcode document](https://github.com/onevcat/VVDocumenter-Xcode)  
 [cycript](http://www.cycript.org/)  
-[swift tool for generating code](https://github.com/AliSoftware/SwiftGen)
+[swift tool for generating code](https://github.com/AliSoftware/SwiftGen)  
 
 ## Chart
 [chart work flow](https://www.lucidchart.com)  
