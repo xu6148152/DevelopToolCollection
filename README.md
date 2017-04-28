@@ -85,7 +85,7 @@ collect some android awesome tools
 
 ## Secure
 [virustotal](https://www.virustotal.com/)  
-[tor](https://www.torproject.org/) hide your real ip
+[tor](https://www.torproject.org/) hide your real ip  
 
 ## Python
 [yapf](https://github.com/google/yapf) python formatter  
